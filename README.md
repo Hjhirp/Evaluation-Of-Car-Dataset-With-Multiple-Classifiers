@@ -1,4 +1,4 @@
-"Exploring Classifier Performance on Car Evaluation Data 🚗📊
+Exploring Classifier Performance on Car Evaluation Data 🚗📊
 
 Welcome to this comprehensive notebook where we delve into the fascinating world of machine learning classifiers! 🧠💻
 
